@@ -10,12 +10,12 @@
  </head>
 
  <body>
- <h1 style="color:DodgerBlue;>必殺技</h1>
+ <h1 style="color:DodgerBlue;">必殺技</h1>
   
-  <h2 style="color:DodgerBlue;>必殺技需要能量條滿80%後才能使用(一次消耗80%)，每次碰到球可加能量10點</h2>
+  <h2 style="color:DodgerBlue;">必殺技需要能量條滿80%後才能使用(一次消耗80%)，每次碰到球可加能量10點</h2>
   <p>
  <p> </p>
- <h3 style="color:DodgerBlue;>
+ <h3 style="color:DodgerBlue;">
    1.柏X技能
    技能介紹:召喚出無數顆球 但只有一顆是真的 碰到召喚出來的假球也會累積能量
    <img src="佑技能1.png">
