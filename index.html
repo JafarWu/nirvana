@@ -6,6 +6,15 @@
     background-color:LightCyan;
     }
   </style>
+ 
+ <scrip src="http://code.jquery.com/jquery-3.3.1.js"></scrip>
+ <script>
+ $(document).ready(function () {
+    $("返回頂部").click(function () {
+        $("html,body").animate({ scrollTop: $("body").offset().top }, 10);
+    });
+});
+ </script>
 
  </head>
 
@@ -37,4 +46,8 @@
   <p>技能介紹:角色力量及速度爆表，能力直接變兩倍(警告!可能會飛出視窗外，一去不復返)</p>
    <img src="彬技能.png">
    </h3>
-
+<h2>
+ <a class="top" href="#">返回頂部</a>
+ </h2>
+  </body>
+</html>
